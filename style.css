@@ -47,8 +47,7 @@ p{
     background-position: center;
     transition-property: background-image;
     transition-timing-function: linear;
-    transition-duration: 2s;
-    transition-delay: 1s;
+    transition-delay: .6s;
     background-color:inherit;
     z-index: 2;
     border: 6px solid pink;
