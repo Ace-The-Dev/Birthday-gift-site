@@ -46,7 +46,6 @@ p{
     background-size: cover;
     background-position: center;
     transition-property: background-image;
-    transition-duration: 12s;
     transition-timing-function: linear;
     transition-delay: 1s;
     background-color:inherit;
