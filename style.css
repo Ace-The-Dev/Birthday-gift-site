@@ -66,3 +66,12 @@ p{
 .footer a{
     color:inherit;
 }
+#gallery{
+    width:50%;
+    display:flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+#gallery img{
+    width:160px;
+}
